@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `important for right usage create json-server like that`
+{
+  "streams": [
+    {
+      "title": "abdu",
+      "description": "qnauy",
+      "id": 1
+    }
+  ]
+} 
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -67,14 +78,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-### `important for right usage create json-server like that`
-{
-  "streams": [
-    {
-      "title": "abdu",
-      "description": "qnauy",
-      "id": 1
-    }
-  ]
-} 
+
 
